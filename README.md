@@ -25,7 +25,7 @@ Filestructure:
 
 ![Rendering of the CNC](https://raw.githubusercontent.com/Sebastian-Schuetz/Open-source-Large-CNC/master/CNC-Mill-v3_2019-Mar-18_07-30-56PM-000_CustomizedView6740137762_png_alpha.png?token=AugobLafXsgdbW5R6IiXrhIDvUx-e74Tks5cmkPdwA%3D%3D)
 
-The current state of the machine can be seen here:
-...
+
+![Current state of the machine](https://raw.githubusercontent.com/Sebastian-Schuetz/Open-source-Large-CNC/master/Bilder/20190319_150552.jpg?token=AugobMNqNBLtx_4jsXsR8nhALSkL2z5mks5cmkwuwA%3D%3D)
 
 As you can see we are still missing some parts (for the second y-axis).
