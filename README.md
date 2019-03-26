@@ -16,7 +16,7 @@ Filestructure:
 - Motormounts-dxf: The 3D-DXF files for the motor mounts, so that you don´t have to extract them form the CAD-model for milling
 - Aufbauanleitung.pdf: Contains the "manual" on how to build the CNC. For reference always stick to the CAD.
 - CNC-Mill-v3... : A high quality render of the finished machine
-- CNC-OpenBuilds.pdf: THE MOST IMPORTANT DOCUMENT. It provides you with further informations
+- CNC-OpenBuilds.pdf: THE MOST IMPORTANT DOCUMENT. It provides you with further information on the design decisions, ...
 - SLP...: The scematic. IT IS 28 PAGES. And was done professionaly. So if you think about building a CNC-machine and want to do it right, this is a great starting point.
 - Materialliste.xlsx: The partlist with BOM
 - 
