@@ -19,13 +19,12 @@ Filestructure:
 - CNC-OpenBuilds.pdf: THE MOST IMPORTANT DOCUMENT. It provides you with further information on the design decisions, ...
 - SLP...: The scematic. IT IS 28 PAGES. And was done professionaly. So if you think about building a CNC-machine and want to do it right, this is a great starting point.
 - Materialliste.xlsx: The partlist with BOM
-- 
 
 
 
-![Rendering of the CNC](Open-source-Large-CNC/CNC-Mill-v3_2019-Mar-18_07-30-56PM-000_CustomizedView6740137762_png_alpha.png)
+![Rendering of the CNC](Open-source-Large-CNC/CNC-Mill-v3_Render.jpg)
 
 
-![Current state of the machine](https://raw.githubusercontent.com/Sebastian-Schuetz/Open-source-Large-CNC/master/Bilder/20190319_150552.jpg?token=AugobMNqNBLtx_4jsXsR8nhALSkL2z5mks5cmkwuwA%3D%3D)
+![Current state of the machine](Open-source-Large-CNC/Bilder/20190319_150552.jpg)
 
 As you can see we are still missing some parts (for the second y-axis).
