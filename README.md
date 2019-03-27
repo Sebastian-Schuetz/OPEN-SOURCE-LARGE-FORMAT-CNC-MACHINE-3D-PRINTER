@@ -23,9 +23,4 @@ Filestructure:
 
 
 
-![Rendering of the CNC](Open-source-Large-CNC/CNC-Mill-v3_Render.jpg?raw=true "Rendering")
-
-
-![Current state of the machine](Open-source-Large-CNC/Bilder/20190319_150552.jpg?raw=true "Image")
-
 As you can see we are still missing some parts for the second y-axis.
