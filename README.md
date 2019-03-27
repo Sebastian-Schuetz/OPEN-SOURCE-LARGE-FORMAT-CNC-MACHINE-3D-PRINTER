@@ -7,7 +7,7 @@ The total size of the machine is roughly:
 -	Z: 128 cm
 and weights around 200 kg.
 
-For further information you should take a look in the .pdf file! 
+For further information you should take a look in the CNC-OpenBuilds.pdf file! 
 
 Filestructure:
 
