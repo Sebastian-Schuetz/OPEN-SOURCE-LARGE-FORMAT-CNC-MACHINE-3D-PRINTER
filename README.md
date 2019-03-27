@@ -27,4 +27,4 @@ Filestructure:
 
 ![Current state of the machine](Open-source-Large-CNC/Bilder/20190319_150552.jpg?raw=true "Image")
 
-As you can see we are still missing some parts (for the second y-axis).
+As you can see we are still missing some parts for the second y-axis.
