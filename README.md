@@ -26,6 +26,6 @@ Filestructure:
 As you can see we are still missing some parts for the second y-axis.
 
 # Team
-David Koch
-Sebastian Schütz
-Stefan Schütz
+- David Koch
+- Sebastian Schütz
+- Stefan Schütz
