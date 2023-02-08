@@ -1,6 +1,11 @@
 # Open-source-Large-CNC
+
+
+![A picture of the finished CNC](./Bilder/index.jpg?raw=true "The finished CNC-machine")
+
 In this Github-Repo you can find the Documentation and CAD files for a large format CNC-machine we build with OpenBuilds parts.
 This build was also published in the OpenBuilds-Forum: https://openbuilds.com/threads/open-source-large-format-cnc-machine-and-3d-printer.13904/
+and on our blog: https://schuetzbuilds.de/open-source-large-format-cnc-machine-and-3d-printer
 
 The total size of the machine is roughly:
 -	X: 172 cm
